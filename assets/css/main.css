@@ -1582,6 +1582,8 @@ section,
 }
 
 .team .member .member-img img {
+  width: 275px; /* You can adjust this value */
+  height: 265px; /* Make it the same as width to maintain the circular shape */
   position: relative;
   z-index: 1;
 }
